@@ -32,5 +32,8 @@
 # Ignore master key for decrypting credentials and more.
 /railsapp/config/master.key
 
+# Ignore node_modules directory
+/railsapp/node_modules
+
 # Some IDE setups
 .vscode/
